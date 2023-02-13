@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MBwLe8C0YA6Jcg9CAXQP0uCazG8XlPzXrPjPJLv4N7k=",
+  "Hash": "q3MOydo4dDWCDgHodWOksscll9EkFWCI6ZbRBI0Vrc8=",
   "Source": "CI_Platform",
   "BasePath": "_content/CI_Platform",
   "Mode": "Default",
@@ -1868,6 +1868,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\xlsx.png"
+    },
+    {
+      "Identity": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\forgot.css",
+      "SourceId": "CI_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CI_Platform\\CI_Platform\\wwwroot\\",
+      "BasePath": "_content/CI_Platform",
+      "RelativePath": "css/forgot.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forgot.css"
     },
     {
       "Identity": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\login.css",

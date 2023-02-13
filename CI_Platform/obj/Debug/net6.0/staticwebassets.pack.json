@@ -433,6 +433,10 @@
       "PackagePath": "staticwebassets\\Assets\\xlsx.png"
     },
     {
+      "Id": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\forgot.css",
+      "PackagePath": "staticwebassets\\css\\forgot.css"
+    },
+    {
       "Id": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },

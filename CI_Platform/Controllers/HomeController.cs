@@ -17,6 +17,10 @@ namespace CI_Platform.Controllers
         {
             return View();
         }
+        public IActionResult Forgot()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
