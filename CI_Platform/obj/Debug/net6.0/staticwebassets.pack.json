@@ -441,6 +441,14 @@
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
+      "Id": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\registration.css",
+      "PackagePath": "staticwebassets\\css\\registration.css"
+    },
+    {
+      "Id": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\resetPassword.css",
+      "PackagePath": "staticwebassets\\css\\resetPassword.css"
+    },
+    {
       "Id": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

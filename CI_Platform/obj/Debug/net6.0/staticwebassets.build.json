@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q3MOydo4dDWCDgHodWOksscll9EkFWCI6ZbRBI0Vrc8=",
+  "Hash": "MVqRPyGZrH+OgFLIZA37Wy/lZX+CmVJTHZo7uEnc2x8=",
   "Source": "CI_Platform",
   "BasePath": "_content/CI_Platform",
   "Mode": "Default",
@@ -1902,6 +1902,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\registration.css",
+      "SourceId": "CI_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CI_Platform\\CI_Platform\\wwwroot\\",
+      "BasePath": "_content/CI_Platform",
+      "RelativePath": "css/registration.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\registration.css"
+    },
+    {
+      "Identity": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\resetPassword.css",
+      "SourceId": "CI_Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CI_Platform\\CI_Platform\\wwwroot\\",
+      "BasePath": "_content/CI_Platform",
+      "RelativePath": "css/resetPassword.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\resetPassword.css"
     },
     {
       "Identity": "E:\\CI_Platform\\CI_Platform\\wwwroot\\css\\site.css",
