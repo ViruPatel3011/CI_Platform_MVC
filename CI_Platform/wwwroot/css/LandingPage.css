@@ -1,0 +1,18 @@
+@media screen and (max-width: 992px) {
+    .user-pic,.user-profile {
+      display: none;
+    }
+  }
+  li > p {
+    margin-bottom: 0;
+  }
+  @media screen and (max-width: 992px) {
+    .menu{
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 406px) {
+      #temp{
+       display: none !important; 
+      }
+  }
